@@ -17,17 +17,7 @@ export default function Navbar(props) {
                   <li className="nav-item">
                     <a className="nav-link" href="#">Link</a>
                   </li>
-                  <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Dropdown
-                    </a>
-                    <ul className="dropdown-menu">
-                      <li><a className="dropdown-item" href="#">Prasad Shelke</a></li>
-                      <li><a className="dropdown-item" href="#">Dattatray Shelke</a></li>
-                      <li><hr className="dropdown-divider" /></li>
-                      <li><a className="dropdown-item" href="#">Bhagwat Shelke</a></li>
-                    </ul>
-                  </li>
+                  <li>Hello Prasad</li>
                   <li className="nav-item">
                     <a className="nav-link disabled">Disabled</a>
                   </li>
