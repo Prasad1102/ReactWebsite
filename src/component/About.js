@@ -7,6 +7,7 @@ export default function About() {
         backgroundColor : 'white'
     })
 
+    console.log("Hello")
     const [btnText, setbtnText] = useState('Enablae Dark Mode')
 
     let toggleStyle = ()=>{
